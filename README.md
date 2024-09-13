@@ -28,18 +28,12 @@ Terminal project with a graphical interface using Tkinter, developed in Python, 
 
 ### To test the program in terminal mode
 
-    ```bash
     python run.py -t
-    ```
 
 ### To test the program in graphical mode
 
-    ```bash
     python run.py
-    ```
 
 ### Run unit tests
 
-    ```bash
     pytest -v
-    ```

@@ -38,6 +38,8 @@ Terminal project with a graphical interface using Tkinter, developed in Python, 
     python run.py
     ```
 
+![img](./img/img.png)
+
 ### Run unit tests
 
     ```bash
